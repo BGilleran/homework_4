@@ -1,0 +1,12 @@
+body{
+	font-family: Georgia serif;
+	line-height: 
+}
+
+blockquote p{
+font-style: italic;
+}
+
+blockquote p em{
+	font-style: normal;
+}

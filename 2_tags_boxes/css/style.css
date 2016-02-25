@@ -1,0 +1,37 @@
+*{
+	font-family: sans-serif;
+}
+
+h1{
+	background-color: red;
+	border: 3px solid black;
+	padding: 50px;
+}
+
+h2{
+	border: 5px dotted green;
+	font-family: Times;
+}
+p{
+	background-color: blue;
+	border: 3px solid black;
+	color:	white;
+	padding: 10px;
+	font-size: small;
+}
+code{
+	color: black;
+	background-color: white;
+	border: 1px solid black;
+	padding: 2px;
+}
+ol{
+	margin: 10px 50px;
+	background-color: black;
+	color: yellow;
+}
+
+li :nth-child(odd){
+	background-color: yellow;
+	color: black;
+}
